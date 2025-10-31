@@ -41,7 +41,7 @@
 5. Создать суперпользователя
    python manage.py createsuperuser
 6. Запустить сервер
-   python manage.pu runserver
+   python manage.py runserver
 Сайт будет доступен по адресу: http://127.0.0.1:8000/
 
 ---
